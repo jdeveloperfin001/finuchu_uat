@@ -65,6 +65,12 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		
+		<dependency>
+  <groupId>com.oracle.database.security</groupId>
+  <artifactId>oraclepki</artifactId>
+</dependency>
+
 	</dependencies>
 
 	<build>
